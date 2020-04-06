@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to the Lab training
 
-I'm glad you are here. I plan to talk about ...
+I hope you get a lot out of this training time and use this site as reference pretty often. 
